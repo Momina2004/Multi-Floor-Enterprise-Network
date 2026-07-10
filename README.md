@@ -75,17 +75,12 @@ The topology contains:
 
 ```text
 multi-floor-enterprise-network/
-|
-|-- Multi-Floor-Enterprise-Network.pkt
-|-- README.md
-|-- AUTHORS.md
-|-- GITHUB_SETUP.md
-|-- .gitignore
-|-- .gitattributes
-|
-|-- assets/
-|   `-- network-topology.png
-|
+├── Multi-Floor-Enterprise-Network.pkt
+├── README.md
+├── .gitignore
+├── .gitattributes
+├── assets/
+    └── network-topology.png
 ```
 
 ## How to Run the Project
