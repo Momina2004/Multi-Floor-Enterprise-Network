@@ -1,0 +1,4 @@
+# Treat project assets as binary files
+*.pkt binary
+*.pdf binary
+*.png binary
