@@ -79,7 +79,7 @@ multi-floor-enterprise-network/
 ├── README.md
 ├── .gitignore
 ├── .gitattributes
-├── assets/
+└── assets/
     └── network-topology.png
 ```
 
